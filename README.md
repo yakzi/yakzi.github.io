@@ -1,4 +1,6 @@
-<h1 Portfolio </h1>
+<h1 align="center">
+ <img src="./img/jz.png" alt="AnyPost Logo"/>
+</h1>
 
 ## Table of contents
 * [Introduction](#introduction)
