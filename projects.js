@@ -1,25 +1,25 @@
 export default [   
     {
         title: "BattleshipsGameAPI<br>(Web API (REST), Repository Pattern, ASP.NET Core, Json.NET, Swagger)",
-        desc: `Web API służące do symulacji gry w statki. Posiada różne endpointy - tworzenie graczy, ustawianie statków, strzelanie w statki, itd. Ponadto plansze graczy są zapisywane i odczytywane z pliku .json. <b>Wydaje mi się, że na chwilę obecną to moje najciekawsze API</b></p>`,
+        desc: `Web API służące do symulacji gry w statki. Posiada różne endpointy - tworzenie graczy, ustawianie statków, strzelanie w statki, itd. Ponadto plansze graczy są zapisywane i odczytywane z pliku .json. <br><b>Wydaje mi się, że na chwilę obecną to moje najciekawsze API</b></p>`,
         github: "https://github.com/yakzi/BattleshipsGameAPI",
         imgSrc: "./img/battleshipsapilogor.png"
     },
     {
         title: "BudgetAPI<br>(Web API (REST), Repository Pattern, Entity Framework Core, MS-SQL, ASP.NET Core, JWT, Swagger)",
-        desc: `Proste API służące do zarządznia budżetem. Umożliwia dodanie wydatku, wpływu, rejestrację, logowanie. Używa MS-SQLowej bazy, Entity Framework Core jako ORM, oraz JWT do autoryzacji <b>Projekt jest w fazie rozwoju</b></p>`,
+        desc: `Proste API służące do zarządznia budżetem. Umożliwia dodanie wydatku, wpływu, rejestrację, logowanie. Używa MS-SQLowej bazy, Entity Framework Core jako ORM, oraz JWT do autoryzacji <br><b>Projekt jest w fazie rozwoju</b></p>`,
         github: "https://github.com/yakzi/BudgetAPI",
         imgSrc: "./img/budgetapilogor.png"
     },
     {
         title: "BattleshipsGameDotNET<br>(ASP.NET Core, LINQ, Bootstrap)",
-        desc: `BattleshipsDotNET to aplikacja internetowa, która symuluje grę w statki przez dwóch graczy AI. <b>Projekt był zalążkiem i motywacją do dalszej nauki i stworzenia BattleshipsGameAPI</b> </p>`,
+        desc: `BattleshipsDotNET to aplikacja internetowa, która symuluje grę w statki przez dwóch graczy AI. <br><b>Projekt był zalążkiem i motywacją do dalszej nauki i stworzenia BattleshipsGameAPI</b> </p>`,
         github: "https://github.com/yakzi/BattleshipsGameDotNET",
         imgSrc: "./img/battleshipslogor.png"
     },
     {
         title: "AnyPost <br>(ASP.NET Core, Entity Framework Core, MS-SQL, Bootstrap)",
-        desc: `AnyPost to proste forum internetowe. Pozwala na stworzenie konta, dodawanie postów, ocenianie ich, oraz dodawanie komentarzy. <b>Projekt przestarzały</b> </p>`,
+        desc: `AnyPost to proste forum internetowe. Pozwala na stworzenie konta, dodawanie postów, ocenianie ich, oraz dodawanie komentarzy. <br><b>Projekt przestarzały, wymaga fundamentalnych popraw</b> </p>`,
         github: "https://github.com/yakzi/AnyPost",
         imgSrc: "./img/AnyPostlogoR.png"
     },
