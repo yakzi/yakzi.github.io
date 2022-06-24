@@ -28,9 +28,8 @@ export default [
         desc: `Rzecz jasna strona którą właśnie czytasz, została zrobiona przeze mnie. 
         Z uwagi na częste zmiany (także koncepcyjne) zdecydowałem się nie umieszczać jej na zdalnym repozytorium, 
         natomiast zawsze można podejrzeć jej źródło.`,
-        github: "https://github.com/yakzi/fuel-cost-web",
-        imgSrc: "./img/jz.png",
-        isBtnDisabled: true,
+        github: "https://github.com/yakzi/yakzi.github.io",
+        imgSrc: "./img/jz.png"
     },
     {
         title: "Let's Ride<br>(Java, Android, Firebase, wzorzec MVVM)",
